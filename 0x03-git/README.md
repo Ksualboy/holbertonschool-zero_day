@@ -1,0 +1,1 @@
+A git excercise to learn how to use it

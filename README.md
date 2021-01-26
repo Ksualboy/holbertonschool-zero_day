@@ -1,1 +1,1 @@
-Creating and set up of our first Git
+Learning the basics of Git and Linux (Ubuntu)
